@@ -30,8 +30,7 @@ Template </li>
 to Your Server </li>
   <li> Adding Pre-Made CSS Stylesheets
 to Your Website</li>
-  <li>Understanding Node Module Exports--How to Pass Functions and Data between Files
-</li>
+  <li>Understanding Node Module Exports--How to Pass Functions and Data between Files </li>
   <li>Understanding Level 1 Authentication<li>
   
 </ul>
