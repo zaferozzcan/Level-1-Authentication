@@ -4,12 +4,8 @@ The app examples Level 1 credentials, which is the most basic level auth. Authen
 # App
 <h2>User must regsiter before log in. Database will keep email and password of the user.</h2>
 ![](/Img/Level-1-3.png)
-<hr>
-<hr>
 <h2> User must enter the correct username/email and password to access the secrets page.</h2>
 ![](/Img/Level-1-2.png)
-<hr>
-<hr>
 <h2>After obtaining credentialS, user is able to get the end page.</h2>
 ![](/Img/Level-1-1.png)
 
