@@ -1,6 +1,19 @@
 # Login-Page-With-Level-1-Authentication
-# Blog-Website
-A blog website app that one can compose new posts and share it as well as store data in database.
+The app examples Level 1 credentials, which is the most basic level auth. Authentication is done with a simple password challenge-response protocol, This method is the most valnurable to third-party attacks.
+# Flow 
+![](Level-1-0.png)
+# App
+<h2>User must regsiter before log in. Database will keep email and password of the user.</h2>
+![](Level-1-3.png)
+<hr>
+<hr>
+<h2> User must enter the correct username/email and password to access the secrets page.</h2>
+![](Level-1-2.png)
+<hr>
+<hr>
+<h2>After obtaining credentialS, user is able to get the end page.</h2>
+![](Level-1-1.png)
+
 
 # Technologies:
 <li> HTML</li>
@@ -23,10 +36,11 @@ to Your Server </li>
 to Your Website</li>
   <li>Understanding Node Module Exports--How to Pass Functions and Data between Files
 </li>
+  <li>Understanding Level 1 Authentication<li>
+  
 </ul>
 
-![](blog_website.png)
-![](blog_website_1.png)
+
 
 
 
